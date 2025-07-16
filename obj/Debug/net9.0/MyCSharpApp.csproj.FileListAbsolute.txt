@@ -1,0 +1,14 @@
+/home/kv0sb/MyCSharpApp/bin/Debug/net9.0/MyCSharpApp
+/home/kv0sb/MyCSharpApp/bin/Debug/net9.0/MyCSharpApp.deps.json
+/home/kv0sb/MyCSharpApp/bin/Debug/net9.0/MyCSharpApp.runtimeconfig.json
+/home/kv0sb/MyCSharpApp/bin/Debug/net9.0/MyCSharpApp.dll
+/home/kv0sb/MyCSharpApp/bin/Debug/net9.0/MyCSharpApp.pdb
+/home/kv0sb/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kv0sb/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.AssemblyInfoInputs.cache
+/home/kv0sb/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.AssemblyInfo.cs
+/home/kv0sb/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.csproj.CoreCompileInputs.cache
+/home/kv0sb/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.dll
+/home/kv0sb/MyCSharpApp/obj/Debug/net9.0/refint/MyCSharpApp.dll
+/home/kv0sb/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.pdb
+/home/kv0sb/MyCSharpApp/obj/Debug/net9.0/MyCSharpApp.genruntimeconfig.cache
+/home/kv0sb/MyCSharpApp/obj/Debug/net9.0/ref/MyCSharpApp.dll
